@@ -30,7 +30,7 @@ Mods marked with a 🟡 are optional
  5. place the downloaded mods folder into the minecraft folder. Path `..\Minecraft\Instances\CraftAnon\Mods`.
  6. Launch minecraft.
     
-*any issues reach out to jai*
+*any issues reach out to Jai*
 
 ## Mod List
 
