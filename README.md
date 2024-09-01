@@ -3,9 +3,9 @@
 
 ## Index
 
-Folder named Mods-min is the bare minumun required to connect and play 
+Folder named Mods - Req is the bare minumun required to connect and play 
 
-Folder named Mods -Req is the recomended version of Mod Pack
+Folder named Mods - Full is the recomended version of Mod Pack
 
 Install instructions are listed below please reach out to Jai for help or mod suggestions 
 
@@ -65,7 +65,6 @@ Mods
 - Better Animations Collection 🟡
 - Better Copper / Armor and Tools 🟢
 - Better Tridents [Forge & Fabric] 🟢
-- BetterF3 🟡
 - Biomes O' Plenty 🟢
 - Clumps 🟢
 - Comforts (Fabric/Forge/Quilt) 🟢
