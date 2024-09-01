@@ -65,7 +65,6 @@ Mods
 - Better Animations Collection 🟡
 - Better Copper / Armor and Tools 🟢
 - Better Tridents [Forge & Fabric] 🟢
-- BetterF3 🟡
 - Biomes O' Plenty 🟢
 - Clumps 🟢
 - Comforts (Fabric/Forge/Quilt) 🟢
