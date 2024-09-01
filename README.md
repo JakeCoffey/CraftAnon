@@ -18,9 +18,9 @@ MC version : 1.20.1
 
 Loader: Forge
 
-Mods Marked with a 🟢 are required for the server
+Mods Marked with a 🟢 are required 
 
-Mods marked with a 🟡 are optional / Client sided
+Mods marked with a 🟡 are optional
 
 ## Install Steps
  1. Download the mod folder you want and rename it to "Mods".
