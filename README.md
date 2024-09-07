@@ -23,13 +23,16 @@ Mods Marked with a 🟢 are required
 Mods marked with a 🟡 are optional
 
 ## Install Steps
- 1. Download the mod folder you want and rename it to "Mods".
- 2. Make new MC instance in your Launcher for 1.20.1 Named CraftAnon
- 3. Launch this version breifly, once you see the start screen you can close minecraft.
- 4. Navigate to your minecraft installations folder.
- 5. place the downloaded mods folder into the minecraft folder. Path `..\Minecraft\Instances\CraftAnon\Mods`.
- 6. Launch minecraft.
-    
+ 1. Download the mods-Full.zip
+ 2. import the zip into your launcher
+    - GDlauncher
+       1. Click add instance
+       2. Select import
+       3. Choose Curse Forge Zip
+       4. Select the downlaoded zip file and hit begin
+     - CurseForge
+       1. Select import under "My Mod Packs"
+       2. Choose the  zip file and hit ok
 *any issues reach out to Jai*
 
 ## Mod List
