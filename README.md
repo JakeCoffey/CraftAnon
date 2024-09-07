@@ -35,6 +35,9 @@ Mods marked with a 🟡 are optional
      - CurseForge
        1. Select import under "My Mod Packs"
        2. Choose the mods-Full.zip file and hit ok
+      
+**Do not update any mods**
+
 *any issues reach out to Jai*
 
 ## Mod List
