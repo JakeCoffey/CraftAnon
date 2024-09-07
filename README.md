@@ -23,16 +23,18 @@ Mods Marked with a 🟢 are required
 Mods marked with a 🟡 are optional
 
 ## Install Steps
- 1. Download the mods-Full.zip
- 2. import the zip into your launcher
+ 1. Download files by hitting the green code button on this page and selecting Download zip
+ 2. Extract `CraftersAnon-Main.Zip`
+ 3. place mods-Full.zip on your desktop
+ 5. import the mods-Full.zip into your launcher
     - GDlauncher
        1. Click add instance
        2. Select import
        3. Choose Curse Forge Zip
-       4. Select the downlaoded zip file and hit begin
+       4. Select the mods-Full.zip file and hit begin
      - CurseForge
        1. Select import under "My Mod Packs"
-       2. Choose the  zip file and hit ok
+       2. Choose the mods-Full.zip file and hit ok
 *any issues reach out to Jai*
 
 ## Mod List
