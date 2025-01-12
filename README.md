@@ -68,6 +68,7 @@ Mods
 - Amendments 🟢
 - Another Furniture 🟢
 - Anvil Never Too Expensive 🟢
+- Applied Energistics 2 🟢
 - Backpacked 🟢
 - Better Advancements 🟡
 - Better Animations Collection 🟡
@@ -84,6 +85,7 @@ Mods
 - Embeddium 🟡
 - Enchantment Descriptions 🟡
 - Every Compat (Wood Good) 🟢
+- Expanded Storage 🟢
 - Furnish 🟢
 - Geophilic – Vanilla Biome Overhauls 🟢
 - HT's TreeChop 🟢
@@ -103,6 +105,7 @@ Mods
 - Supplementaries Squared 🟢
 - Waystones 🟢
 - Waystones Teleport Pets 🟢
+- MEGA Cells 🟢
 - Xaero's Minimap 🟡
 - YUNG's Better Desert Temples (Forge) 🟢
 - YUNG's Better Dungeons (Forge) 🟢
